@@ -1,1 +1,15 @@
 https://rogerdudler.github.io/git-guide/index.es.html
+
+
+
+1. Instalar Git sudo apt-get install git
+2. Clonar repositorio git clone url
+3. Entrar en repositorio y checar status (git status)
+4. Crear rama (git checkout -b "nombre")
+5. Colocar los documentos o códigos (imagen, letra de una Cancion, un hola mundo en cualquier lenguaje)
+6. Checar el estatus (git status)
+7. Agregar documentos (git add )
+8. Generar el git commit (git commit -m "Mensaje descriptivo" )
+9. Checar el estatus(git status)
+10. Subimos nuestra rama (git push origin "nombre rama")
+
